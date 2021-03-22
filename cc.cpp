@@ -11,8 +11,8 @@ const int INF = (1 << 30) - 1;
 const int maxn = 100000005;
 
 int n,m,k,mabit;
+int bbb;
 vector<int> a;
-
 
 int main() {
     freopen("C:\\Users\\10982\\Desktop\\in.txt","r",stdin);
