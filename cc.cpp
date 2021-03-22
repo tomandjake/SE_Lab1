@@ -10,7 +10,7 @@ typedef long long ll;
 const int INF = (1 << 30) - 1;
 const int maxn = 100000005;
 
-int n,m,k,mabit;
+int n,m,k,mabit,asd;
 vector<int> a;
 
 
