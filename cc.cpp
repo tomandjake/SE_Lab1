@@ -12,6 +12,7 @@ const int maxn = 100000005;
 
 int n,m,k,mabit;
 vector<int> a;
+int tmp;
 
 
 int main() {
